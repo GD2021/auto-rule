@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "ahcdn.com",
         "baddies247.com",
         "baddiesonly.tv",
         "bigwarp.io",
@@ -16,6 +17,8 @@
         "javdb.com",
         "jdbimgs.com",
         "jdbstatic.com",
+        "lpembed.com",
+        "ovaltinecdn.com",
         "phncdn.com",
         "phprcdn.com",
         "porngub.com",
@@ -27,6 +30,7 @@
         "tapecontent.net",
         "trafficdeposit.com",
         "trendyporn.com",
+        "vidello.net",
         "vidoza.net",
         "zload.cc"
       ]
